@@ -1,0 +1,200 @@
+c:\users\grupo hydro\documents\visual studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\grupo hydro\documents\visual studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Acceso.resources
+c:\users\grupo hydro\documents\visual studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Inicio.resources
+c:\users\grupo hydro\documents\visual studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Resources.resources
+c:\users\grupo hydro\documents\visual studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Registros.resources
+c:\users\grupo hydro\documents\visual studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\grupo hydro\documents\visual studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\grupo hydro\documents\visual studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.exe
+c:\users\grupo hydro\documents\visual studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.pdb
+c:\users\grupo hydro\documents\visual studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.xml
+c:\users\grupo hydro\documents\visual studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.exe
+c:\users\grupo hydro\documents\visual studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.xml
+c:\users\grupo hydro\documents\visual studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.pdb
+c:\users\grupo hydro\documents\visual studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Consulta.resources
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.exe
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.xml
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.pdb
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\bin\Debug\Idiomas.exe
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\bin\Debug\Idiomas.pdb
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\bin\Debug\Idiomas.xml
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.vbprojResolveAssemblyReference.cache
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_alumnos.resources
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_Calificacion.resources
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_Grupos.resources
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_profesores.resources
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Acceso.resources
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Calificaciones.resources
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Grupos.resources
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Inicio.resources
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Profesores.resources
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Reinscripcion.resources
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Usuarios.resources
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Resources.resources
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Registros.resources
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.vbproj.GenerateResource.Cache
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\bin\Debug\Idiomas.exe.config
+C:\Users\Auxiliar TI\Downloads\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Asig_Grupo.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\bin\Debug\Idiomas.exe.config
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.exe
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.xml
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.pdb
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\bin\Debug\Idiomas.exe.manifest
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\bin\Debug\Idiomas.application
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\bin\Debug\Idiomas.exe
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.vbprojResolveAssemblyReference.cache
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_alumnos.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_Calificacion.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_Grupos.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_profesores.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Acceso.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Asig_Grupo.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Calificaciones.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Grupos.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Inicio.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Profesores.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Reinscripcion.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Usuarios.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Resources.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Registros.resources
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.vbproj.GenerateResource.Cache
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.exe.manifest
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.application
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\bin\Debug\Idiomas.pdb
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\bin\Debug\Idiomas.xml
+C:\Users\Auxiliar TI\Downloads\Avance marzo\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Horarios.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\bin\Debug\Idiomas.exe
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\bin\Debug\Idiomas.pdb
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\bin\Debug\Idiomas.exe.config
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\bin\Debug\Idiomas.exe.manifest
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\bin\Debug\Idiomas.application
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_alumnos.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_Calificacion.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_det_grupos.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_Grupos.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_profesores.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Acceso.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Asig_Grupo.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Calificaciones.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Grupos.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Horarios.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Inicio.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Profesores.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Reinscripcion.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Usuarios.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_Calificacion.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_Historial.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_Horarios.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Resources.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Registros.resources
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.vbproj.GenerateResource.Cache
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.exe.manifest
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.application
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.exe
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.xml
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.pdb
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\bin\Debug\Idiomas.xml
+C:\Users\Auxiliar TI\Downloads\Sistema Idiomas\Idiomas\Idiomas\obj\x86\Debug\Idiomas.vbprojResolveAssemblyReference.cache
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.exe
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.pdb
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.exe.config
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.exe.manifest
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.application
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_alumnos.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_Calificacion.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_det_grupos.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_Asignado.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_profesores.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Acceso.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Asig_Grupo.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Calificaciones.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Grupos.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Horarios.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Inicio.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Profesores.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Reinscripcion.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Usuarios.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_asignado.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_Calificacion.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_Historial.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_Horarios.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Resources.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Registros.resources
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.vbproj.GenerateResource.Cache
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.exe.manifest
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.application
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.exe
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.xml
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.pdb
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.xml
+C:\Users\Auxiliar TI\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.vbprojResolveAssemblyReference.cache
+C:\Users\ANGELES\Videos\Idiomas\Idiomas\bin\Debug\Idiomas.exe.config
+C:\Users\ANGELES\Videos\Idiomas\Idiomas\obj\x86\Debug\Idiomas.exe
+C:\Users\ANGELES\Videos\Idiomas\Idiomas\obj\x86\Debug\Idiomas.xml
+C:\Users\ANGELES\Videos\Idiomas\Idiomas\obj\x86\Debug\Idiomas.pdb
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.exe.config
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.exe.manifest
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.application
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.exe
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.pdb
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\bin\Debug\Idiomas.xml
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_alumnos.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_Calificacion.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_det_grupos.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_Asignado.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_profesores.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Acceso.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Asig_Grupo.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Calificaciones.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Grupos.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Horarios.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Inicio.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Profesores.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Reinscripcion.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Usuarios.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_asignado.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_Calificacion.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_Historial.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_Horarios.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Resources.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Registros.resources
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.vbproj.GenerateResource.Cache
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.exe.manifest
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.application
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.exe
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.xml
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.pdb
+C:\Users\ANGELES\Documents\Visual Studio 2010\Projects\Idiomas\Idiomas\obj\x86\Debug\Idiomas.vbprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\bin\Debug\Idiomas.exe.config
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.exe
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.xml
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.pdb
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\bin\Debug\Idiomas.exe.manifest
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\bin\Debug\Idiomas.application
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\bin\Debug\Idiomas.exe
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\bin\Debug\Idiomas.pdb
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\bin\Debug\Idiomas.xml
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.vbprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_alumnos.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_Calificacion.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_det_grupos.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_Asignado.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.C_profesores.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Acceso.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Asig_Grupo.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Calificaciones.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Grupos.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Horarios.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Inicio.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Profesores.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Reinscripcion.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Usuarios.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_asignado.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_Calificacion.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_Historial.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.V_Horarios.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Resources.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.Registros.resources
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.vbproj.GenerateResource.Cache
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.exe.manifest
+C:\Users\Alberto\Desktop\archivos para instalacion\Idiomas\Idiomas\obj\x86\Debug\Idiomas.application
